@@ -1,0 +1,26 @@
+.important{
+  font-family: cursive;
+
+}
+.fake{
+  font-size: 32px;
+  color:blue;
+}
+.something{
+color: green;
+}
+.nothing{
+font-size: 24px;
+color:red;
+font-weight: bold;
+font-family: fantasy;
+}
+.unimportant{
+color:orange;
+font-style: italic;
+font-weight: bold;
+}
+p{
+  color: purple;
+  font-family: sans-serif;
+}
