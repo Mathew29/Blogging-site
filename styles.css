@@ -1,6 +1,5 @@
 .important{
   font-family: cursive;
-
 }
 .fake{
   font-size: 32px;
@@ -23,4 +22,9 @@ font-weight: bold;
 p{
   color: purple;
   font-family: sans-serif;
+}
+.content{
+  border: 2px solid white;
+  margin-top: 50px;
+  margin-bottom: 50px;
 }
